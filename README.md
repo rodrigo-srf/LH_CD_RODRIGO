@@ -44,12 +44,12 @@ Realizar uma análise aprofundada de um banco de dados cinematográfico, identif
 PProductions_Data_Analytics/
 ├── README.md              # Documentação do projeto
 ├── requirements.txt       # Dependências Python
-├── analysis/              # Relatórios das análises (PDF, Notebooks)
+├── analysis/              # Relatórios das análises
 │   └── eda_report.ipynb
 │   └── model_report.ipynb
 ├── model/                 # Arquivos de modelo
 │   └── predictive_model.pkl
-└── src/                   # Códigos auxiliares (se houver)
+└── src/                   # Códigos auxiliares
     └── data_preprocessing.py
 ```
 
